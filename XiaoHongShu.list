@@ -1,0 +1,19 @@
+# NAME: XiaoHongShu
+# AUTHOR: blackmatrix7 + yfamily (merged)
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2026-11-09
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
+DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,diandianlife.top
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,redelight.cn
+DOMAIN-SUFFIX,rednote.com
+DOMAIN-SUFFIX,rednote.com.my
+DOMAIN-SUFFIX,rednotecdn.com
+DOMAIN-SUFFIX,rnote.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xhslink.com
+DOMAIN-SUFFIX,xhsrcdn.com
+DOMAIN-SUFFIX,xiaohongshu.com

@@ -17,6 +17,9 @@ DOMAIN,cdn.growthbook.io
 DOMAIN,cdn.usefathom.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,storage.googleapis.com
+DOMAIN-KEYWORD,datadog
+DOMAIN-KEYWORD,sentry
+DOMAIN-KEYWORD,sift
 DOMAIN-SUFFIX,ant.dev
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,anthropic.com.cn
@@ -50,9 +53,6 @@ DOMAIN-SUFFIX,muthos.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sillylittleguy.org
 DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-KEYWORD,datadog
-DOMAIN-KEYWORD,sentry
-DOMAIN-KEYWORD,sift
 IP-ASN,399358,no-resolve
 IP-CIDR,160.79.104.0/21,no-resolve
 IP-CIDR6,2607:6bc0::/32,no-resolve
