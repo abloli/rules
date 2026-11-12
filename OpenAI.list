@@ -1,15 +1,16 @@
 # NAME: OpenAI
-# AUTHOR: blackmatrix7 + yfamily (merged)
+# AUTHOR: blackmatrix7 + yfamily + fmz200 (merged)
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-11-09
-# DOMAIN: 8
+# UPDATED: 2026-11-12
+# DOMAIN: 9
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 32
+# DOMAIN-SUFFIX: 40
 # IP-ASN: 2
 # IP-CIDR: 3
 # IP-CIDR6: 1
-# TOTAL: 48
+# TOTAL: 57
 DOMAIN,browser-intake-datadoghq.com
+DOMAIN,challenges.cloudflare.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaiassets.blob.core.windows.net
@@ -20,17 +21,22 @@ DOMAIN,static.cloudflareinsights.com
 DOMAIN-KEYWORD,chatgpt-async-webps-prod
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,akamaized.com
 DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,chatgpt.site
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,gatewayai.com
+DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
@@ -45,12 +51,15 @@ DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,openai.org
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
 IP-ASN,20473,no-resolve
 IP-ASN,401518,no-resolve
 IP-CIDR,199.47.142.0/23,no-resolve

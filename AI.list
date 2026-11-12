@@ -1,12 +1,14 @@
 # NAME: AI
-# AUTHOR: blackmatrix7 (merged)
+# AUTHOR: blackmatrix7 + fmz200 (merged)
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-11-09
-# DOMAIN: 28
+# UPDATED: 2026-11-12
+# DOMAIN: 33
 # DOMAIN-KEYWORD: 6
-# DOMAIN-SUFFIX: 34
+# DOMAIN-SUFFIX: 43
 # DOMAIN-WILDCARD: 3
-# TOTAL: 71
+# IP-CIDR: 1
+# IP-CIDR6: 1
+# TOTAL: 87
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -22,18 +24,23 @@ DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,bard.google.com
+DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,gemini.google.com
 DOMAIN,gemini.gstatic.com
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,guzzoni.apple.com
+DOMAIN,imagine.meta.com
 DOMAIN,jules.google.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,pplx-res.cloudinary.com
+DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,sydney.bing.com
+DOMAIN,trae-api-sg.mchost.guru
 DOMAIN,www.bing.com
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
@@ -42,6 +49,8 @@ DOMAIN-KEYWORD,notebooklm.google
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaicom
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,apple-relay.akamaized.net
+DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,clau.de
@@ -57,13 +66,19 @@ DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,cursorvm.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
@@ -73,8 +88,11 @@ DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,zed.dev
 DOMAIN-WILDCARD,*mask*.apple-dns.net
 DOMAIN-WILDCARD,*mask*.icloud.com
 DOMAIN-WILDCARD,*siri*.apple.com
+IP-CIDR,160.79.104.0/23,no-resolve
+IP-CIDR6,2607:6bc0::/48,no-resolve
